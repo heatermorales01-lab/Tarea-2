@@ -12,3 +12,4 @@ C:\Proyectos\Tarea2\obj\Debug\net8.0\refint\Tarea2.dll
 C:\Proyectos\Tarea2\obj\Debug\net8.0\Tarea2.pdb
 C:\Proyectos\Tarea2\obj\Debug\net8.0\Tarea2.genruntimeconfig.cache
 C:\Proyectos\Tarea2\obj\Debug\net8.0\ref\Tarea2.dll
+C:\Proyectos\Tarea2\obj\Debug\net8.0\Tarea2.sourcelink.json

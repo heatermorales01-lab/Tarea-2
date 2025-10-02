@@ -7,7 +7,7 @@ Console.WriteLine("Libros disponibles: \n");
 
 List<Libro> libros = new List<Libro>
 {
-   new Libro("Cien años de soledad", "Gabriel García Márquez", 1967),
+    new Libro("Cien años de soledad", "Gabriel García Márquez", -1967),
     new Libro("El código Da Vinci", "Dan Brown", 2003),
     new Libro("Don Quijote de la Mancha", "Miguel de Cervantes", 1605),
     new Libro("Orgullo y prejuicio", "Jane Austen", 1813),
